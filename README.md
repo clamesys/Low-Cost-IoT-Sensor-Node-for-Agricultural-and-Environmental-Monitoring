@@ -26,6 +26,13 @@ Low-Cost-IoT-Sensor-Node-for-Agricultural-and-Environmental-Monitoring/
 
 ---
 
+### Dashboard Preview
+Below is a preview of the real-time monitoring dashboard:
+
+![Dashboard Preview](images/dashboard.png)
+
+---
+
 #### **Prerequisites**
 1. **Hardware**:
    - Raspberry Pi Pico W  

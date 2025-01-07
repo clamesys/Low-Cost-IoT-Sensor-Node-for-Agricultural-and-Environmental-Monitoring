@@ -16,11 +16,13 @@ This project presents a low-cost IoT sensor node designed for real-time agricult
 #### **Folder Structure**
 ```
 Low-Cost-IoT-Sensor-Node-for-Agricultural-and-Environmental-Monitoring/
-├── RaspberryPi/
-│   ├── main.py  # MicroPython script for Pico W
 ├── Dashboard-integrated-Server/
 │   ├── dashboard.py  # Flet dashboard source code
 │   ├── testing.py #Python code to test the working of the dashboard using random inputs through api to simluate the working of the IOT device
+├── RaspberryPi/
+│   ├── main.py  # MicroPython script for Pico W
+├── images/
+│   ├── dashboard.png  # Screenshot of the dashboard
 ├── README.md
 ```
 

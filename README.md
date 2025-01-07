@@ -52,7 +52,7 @@ Low-Cost-IoT-Sensor-Node-for-Agricultural-and-Environmental-Monitoring/
    - Navigate to the `Dashboard-integrated-Server/` folder.  
    - Run the `dashboard.py` script to start the Flask server and the Flet dashboard:  
      ```bash
-     python dashboard.py
+     flet run dashboard.py
      ```
 
 4. **Monitor Data**:  
